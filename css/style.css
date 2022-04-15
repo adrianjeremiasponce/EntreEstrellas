@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header{
+    background-color: #FFFF;
+}
+.logo{
+    margin-left: 4vh;
+}
+.navbar-brand{
+    font-size: 4vh;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.main{
+    background-color: #00171F;
+    color: #00171F;
+ 
+
+}
+.portada{
+    width: 100%;
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url(../images/portada.png);
+    background-size: cover;
+    color: white;
+    text-align: center;
+}
+.portada button{
+    width: 40%;
+    background-color: white; 
+    opacity: 80%;
+    border: none;
+    color: #00171F;
+    font-size: 2.5vh;
+    padding: 5vh;
+    margin: 2vh;
+}
+.main .seccion1{
+    display: flex;
+    justify-content: center;
+    margin: 3vh;
+    padding: 4vh;
+
+}
+ 
+.main .seccion2 .bloque1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.cuadroDeTexto{
+    width: 100%;
+    padding: 4vh;
+    background-color: #FFFF;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.cuadroDeTexto .formula{
+ font-style: italic;
+ font-size: 3vh;
+}
+.seccion2{
+    font-size: 3vh;
+}
+.seccion2 input{
+    font-size: 3vh;
+    width: 50%;
+}
+.imagenIndex{
+    width: 40%;
+}
+
+#longitudDeOnda, #nombreDeEstrella{
+    margin: 1vh;
+}
+#btnMain{
+    margin: 2vh;
+}
+.footer{
+    padding: 4vh;
+    background-color: #003459;
+    color: #FFFF;
+}

@@ -1,0 +1,11 @@
+[
+    {"nombre": "Sol", "Temperatura": 5778, "id": 1},
+    {"nombre": "Betelgeuse", "Temperatura": 3500, "id": 2},
+    {"nombre": "Sirio", "Temperatura": 9940, "id": 3},
+    {"nombre": "Aldebarán", "Temperatura": 3910, "id": 4},
+    {"nombre": "Achernar", "Temperatura": 15000, "id": 5},
+    {"nombre": "Rigel", "Temperatura": 11000, "id": 6},
+    {"nombre": "Acrux", "Temperatura": 30000, "id": 7},
+    {"nombre": "Deneb", "Temperatura": 8525, "id": 8},
+    {"nombre": "Antares", "Temperatura": 3600, "id": 9}
+]
